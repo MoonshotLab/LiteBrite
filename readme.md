@@ -1,0 +1,3 @@
+Read Me
+
+This project uses the fadecandy and processing as an interface to an arduino. The arduino is set up with six different applications that communicate through the processing to create an x and y position with a manual color change. There is also a reset button. The fadecandy is used to interpret what is being communicated between the arduino and processor. It is then projected on to a 20x20 neopixel square. The manual controls of the x and y allow for the cursor to move over the entire neopixel interface and individually light up the LED. This creates a combination of 'etch-sketch' and LiteBrite. 
